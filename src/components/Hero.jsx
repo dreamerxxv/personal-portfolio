@@ -26,7 +26,7 @@ const Hero = () => {
               <p> Passionate Web Developer to Delivering Fast, Secure, and Scalable <strong>Web Applications </strong> 
               with experience for years. Read my Curriculum Vitae below.</p>
             </div>
-            <a href="" class="primary-btn mobile-only">Curriculum Vitae</a>
+            <a href="https://drive.google.com/file/d/1JRleinmGcdBlleclHA75OhpbIkaodSL3/view?usp=sharing" class="primary-btn mobile-only">Curriculum Vitae</a>
 
           </div>
         </div>
