@@ -15,7 +15,7 @@ const Hero = () => {
                 <h2 className="subheading gsap-reveal-hero mb-4">
                   Passionate Web Developer to Delivering Fast, Secure, and Scalable <strong>Web Applications</strong> with experience for years. Read my Curriculum Vitae below.
                 </h2>
-                <p className="gsap-reveal-hero"><a href="https://drive.google.com/file/d/1JRleinmGcdBlleclHA75OhpbIkaodSL3/view?usp=sharing" className="btn btn-outline-light">
+                <p className="gsap-reveal-hero"><a href="https://drive.google.com/file/d/17-PSg3NfjAZPBSFZ4RxRy5Eo8SIeeYH6/view?usp=sharing" className="btn btn-outline-light">
                   Curriculum Vitae</a>
                 </p>
               </div>
@@ -26,7 +26,7 @@ const Hero = () => {
               <p> Passionate Web Developer to Delivering Fast, Secure, and Scalable <strong>Web Applications </strong> 
               with experience for years. Read my Curriculum Vitae below.</p>
             </div>
-            <a href="https://drive.google.com/file/d/1JRleinmGcdBlleclHA75OhpbIkaodSL3/view?usp=sharing" class="primary-btn mobile-only">Curriculum Vitae</a>
+            <a href="https://drive.google.com/file/d/17-PSg3NfjAZPBSFZ4RxRy5Eo8SIeeYH6/view?usp=sharing" class="primary-btn mobile-only">Curriculum Vitae</a>
 
           </div>
         </div>
