@@ -23,6 +23,7 @@ import sigumad from './sigumad.png';
 import rentcar from './rentcar.png';
 import eshop from './eshop.png';
 import blogai from './blogai.png';
+import spacerent from './spacerent.png';
 
 export { hero, image1, image2, logo, favicon, vue, ITSupport, JuniorDev1, JuniorDev2, ReactScratch, SoftSkill,
-          geminiAI, sigumad, rentcar, eshop, blogai, codeigniter, git, react }; 
+          geminiAI, sigumad, rentcar, eshop, blogai, codeigniter, git, react, spacerent }; 
