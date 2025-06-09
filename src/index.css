@@ -12,7 +12,7 @@ html {
 
 body {
   background-color: #000000;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300 !important;
 }
 
@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   font-weight: 300;
 }
 
@@ -37,12 +37,12 @@ a {
 
 a:hover {
   color: #ffffff;
-  opacity: .8;
+  opacity: 0.8;
   text-decoration: none;
 }
 
 .primary-btn {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   background-color: #ffffff;
   color: #000000 !important;
   padding: 15px 40px;
@@ -53,7 +53,7 @@ a:hover {
 .primary-btn:hover {
   background-color: #ffffff;
   color: #000000;
-  opacity: .9;
+  opacity: 0.9;
 }
 
 section {
@@ -64,7 +64,6 @@ button {
   background-color: transparent;
   border: 0px;
 }
-
 
 .untree_co-section {
   padding: 7rem 0;
@@ -103,7 +102,7 @@ button {
 
 .navbar-brand {
   font-size: medium;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
 }
 
 .navbar {
@@ -133,17 +132,17 @@ button {
 .heading-content {
   max-width: 900px;
   margin: 0 auto;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   color: #ffffff;
 }
 
 .heading-content h2 {
   line-height: 1.8;
-  letter-spacing: .02em;
+  letter-spacing: 0.02em;
 }
 
 .heading-content p {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 20px;
   color: rgba(255, 255, 255, 0.5);
 }
@@ -166,7 +165,7 @@ Hero
 ////////////////////////////////////////*/
 
 #hero h1 {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   font-size: 60px;
   line-height: 1.6;
   color: #ffffff;
@@ -174,7 +173,7 @@ Hero
 
 .hero-container {
   position: relative;
-  transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 .hero-container:hover {
@@ -190,7 +189,7 @@ Hero
 }
 
 .hero-details h3 {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   font-size: 36px;
 }
 
@@ -215,7 +214,7 @@ Hero
 ////////////////////////////////////////*/
 
 #hero h1 {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   font-size: 60px;
   line-height: 1.6;
   color: #ffffff;
@@ -223,7 +222,7 @@ Hero
 
 .hero-container {
   position: relative;
-  transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 .hero-container:hover {
@@ -239,7 +238,7 @@ Hero
 }
 
 .hero-details h3 {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   font-size: 36px;
 }
 
@@ -264,7 +263,7 @@ Certificate
 ////////////////////////////////////////*/
 
 #certificate h1 {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   font-size: 60px;
   line-height: 1.6;
   color: #ffffff;
@@ -272,7 +271,7 @@ Certificate
 
 .certificate-container {
   position: relative;
-  transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 .certificate-container:hover {
@@ -288,7 +287,7 @@ Certificate
 }
 
 .certificate-details h3 {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   font-size: 36px;
 }
 
@@ -315,7 +314,7 @@ Portfolio
 .portfolio-container {
   position: relative;
   margin: 10px 0;
-  transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 .portfolio-container:hover {
@@ -330,7 +329,16 @@ Portfolio
 }
 
 .card .card-body {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.visit {
+  width: 14px;
+  height: 14px;
 }
 
 .portfolio-button {
@@ -342,12 +350,11 @@ Portfolio
 }
 
 .portfolio-button span {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   padding: 3px 5px 3px 5px;
   color: white;
   background-color: black;
 }
-
 
 .portfolio-link {
   color: #000000;
@@ -355,7 +362,7 @@ Portfolio
 
 .portfolio-link:hover {
   color: #000000;
-  opacity: .8;
+  opacity: 0.8;
 }
 
 .portfolio-link i {
@@ -370,7 +377,7 @@ Skills
 
 .skills {
   position: relative;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   padding: 10px 23px 10px 23px;
   font-size: large;
   border: 1px solid rgba(255, 255, 255, 0.5);
@@ -379,11 +386,11 @@ Skills
 
 .skills-post:hover {
   border: 2px solid #ffffff;
-  transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 .skills-post h5 {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   line-height: 1.6;
   margin-bottom: 40px;
 }
@@ -403,7 +410,7 @@ Skills
 .label-tag span {
   color: #000000;
   font-size: 12px;
-  letter-spacing: .1em;
+  letter-spacing: 0.1em;
 }
 
 .label-tag a {
@@ -421,7 +428,7 @@ Footer
 
 #footer {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   text-align: center;
   padding: 90px 0 30px 0;
 }
@@ -432,9 +439,9 @@ Footer
 
 #footer small {
   color: rgba(255, 255, 255, 0.5);
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
-  letter-spacing: .25em;
+  letter-spacing: 0.25em;
   margin-top: 30px;
   display: inline-block;
 }
@@ -496,6 +503,8 @@ Media queries
   }
 }
 
-@media (max-width: 991.98px) {}
+@media (max-width: 991.98px) {
+}
 
-@media (max-width: 1199.98px) {}
+@media (max-width: 1199.98px) {
+}

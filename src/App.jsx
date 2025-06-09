@@ -10,9 +10,8 @@ function App() {
     <div>
       <Hero />
 
-      <Skill />
-
       <Portfolio />
+      <Skill />
 
       <Certificate />
 

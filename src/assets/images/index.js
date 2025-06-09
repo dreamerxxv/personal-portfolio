@@ -10,6 +10,7 @@ import vue from './vue.svg';
 import codeigniter from './codeigniter.svg';
 import git from './git.svg';
 import react from './react.svg';
+import arrow from './arrowright.svg';
 
 // Sertificate Images 
 import ITSupport from './IT Support Certificate from Coursera-1.png';
@@ -20,10 +21,10 @@ import SoftSkill from './Soft skills Certificate from WIT-1.png';
 
 // Portfolio
 import sigumad from './sigumad.png';
-import rentcar from './rentcar.png';
+import edoo from './edoo.png';
 import eshop from './eshop.png';
 import blogai from './blogai.png';
 import spacerent from './spacerent.png';
 
 export { hero, image1, image2, logo, favicon, vue, ITSupport, JuniorDev1, JuniorDev2, ReactScratch, SoftSkill,
-          geminiAI, sigumad, rentcar, eshop, blogai, codeigniter, git, react, spacerent }; 
+          geminiAI, sigumad, edoo, eshop, blogai, codeigniter, git, react, spacerent, arrow }; 
