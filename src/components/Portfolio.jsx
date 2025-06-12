@@ -121,13 +121,15 @@ const Portfolio = () => {
           </div>
 
           <div className="col-md-6">
-            <div className="portfolio-container">
+            <div className="portfolio-container web-4">
 
-              <div className="card mb-3">
-                <div className="card-body">
-                  Education website
+              <a href="https://eboo.vercel.app/">
+                <div className="card mb-3">
+                  <div className="card-body">
+                    Visit site <img src={arrow} alt="arrow" className='visit' />
+                  </div>
                 </div>
-              </div>
+              </a>
               
               <div className="portfolio-button">
                 {/* <span>Blog Platform web application</span> <br /> */}
