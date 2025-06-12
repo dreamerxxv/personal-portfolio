@@ -5,7 +5,7 @@ const Footer = () => {
         <section id="footer">
             <div className="container">
                 <h6>Let's work together.</h6>
-                <small>Web Portfolio Dina Fathul Badry 2024 © •</small>
+                <small>Web Portfolio Dina Fathul Badry 2025 © •</small>
                 <ul className="list-inline margintop-sm">
                     <li className="list-inline-item"><a href="mailto:dinafbadry@gmail.com"><i className="fa-solid fa-at"></i></a></li>
                     <li className="list-inline-item"><a href="https://www.linkedin.com/in/dina-fathul-badry/"><i className="fa-brands fa-linkedin"></i></a></li>
